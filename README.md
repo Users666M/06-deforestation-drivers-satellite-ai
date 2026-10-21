@@ -3,8 +3,6 @@ Studi kasus terintegrasi (sesi 6), menggabungkan analisis data, GIS, ML, HPC, da
 
 Studi kasus berbasis materi *Informatics Practitioner Lecture Series* (Informatika Unib): analisis data, HPC, GIS, machine learning, HCI & visualisasi data, serta atribusi deforestasi dengan citra satelit dan AI.
 
-> Data = **sintetis** (untuk pembelajaran). Laporan lengkap: [`docs/laporan_studi_kasus.md`](docs/laporan_studi_kasus.md)
-
 ![dashboard](reports/figures/09_dashboard_preview.png)
 
 ## Hasil singkat
