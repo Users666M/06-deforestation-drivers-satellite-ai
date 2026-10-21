@@ -1,0 +1,4 @@
+workers,seconds,speedup,efficiency,cpu_cores_machine
+1,4.056,1.0,1.0,1
+2,4.334,0.94,0.47,1
+4,4.632,0.88,0.22,1

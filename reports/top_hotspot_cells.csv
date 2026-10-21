@@ -1,0 +1,16 @@
+cell_lat,cell_lon,alerts,area_ha,top_driver
+-3.9,102.3,95,463.2,smallholder_agriculture
+-3.8,102.3,84,467.5,smallholder_agriculture
+-3.8,102.4,81,288.8,smallholder_agriculture
+-3.6,102.4,78,282.0,smallholder_agriculture
+-3.7,102.3,76,314.2,smallholder_agriculture
+-3.8,102.2,74,335.2,infrastructure
+-3.5,102.5,71,261.8,smallholder_agriculture
+-3.9,102.2,71,282.5,smallholder_agriculture
+-3.7,102.2,70,263.2,smallholder_agriculture
+-3.9,102.4,69,309.4,smallholder_agriculture
+-3.8,102.5,63,226.1,smallholder_agriculture
+-4.0,102.3,63,311.3,oil_palm
+-3.5,102.3,62,255.1,smallholder_agriculture
+-3.7,102.4,62,227.5,smallholder_agriculture
+-3.8,102.1,61,238.9,smallholder_agriculture

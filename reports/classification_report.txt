@@ -1,0 +1,12 @@
+                         precision    recall  f1-score   support
+
+smallholder_agriculture      0.836     0.943     0.886       421
+               oil_palm      0.875     0.902     0.888       286
+                 mining      0.818     0.685     0.746        92
+         infrastructure      0.955     0.836     0.892       128
+                logging      0.819     0.628     0.711       137
+           fire_natural      0.890     0.890     0.890       136
+
+               accuracy                          0.860      1200
+              macro avg      0.865     0.814     0.835      1200
+           weighted avg      0.861     0.860     0.857      1200

@@ -1,0 +1,7 @@
+driver,n_alerts,area_ha,ndvi_drop,nbr_drop,dist_road_km,dist_settlement_km,slope_deg,elevation_m,compactness,in_protected
+fire_natural,679,9.31,0.43,0.44,3.95,4.73,11.86,208.21,0.4,0.13
+infrastructure,641,3.37,0.52,0.09,0.62,1.5,7.82,331.0,0.28,0.05
+logging,684,3.89,0.29,0.13,4.79,8.51,19.43,674.86,0.45,0.25
+mining,463,5.28,0.61,0.11,3.77,7.68,10.75,145.11,0.59,0.09
+oil_palm,1429,7.15,0.48,0.18,3.01,5.81,6.51,89.97,0.69,0.06
+smallholder_agriculture,2104,2.23,0.33,0.11,2.02,1.61,15.31,602.16,0.55,0.15
